@@ -1,0 +1,19 @@
+{
+  "name": "Perfect Bracket",
+  "afcWildCard1": "Cincinnati Bengals",
+  "afcWildCard2": "Buffalo Bills",
+  "afcWildCard3": "Kansas City Chiefs",
+  "nfcWildCard1": "Tampa Bay Buccaneers",
+  "nfcWildCard2": "San Francisco 49ers",
+  "nfcWildCard3": "Los Angeles Rams",
+  "afcDivisional1": "Cincinnati Bengals",
+  "afcDivisional2": "Kansas City Chiefs",
+  "nfcDivisional1": "San Francisco 49ers",
+  "nfcDivisional2": "Los Angeles Rams",
+  "afcChampions": "Cincinnati Bengals",
+  "nfcChampions": "Los Angeles Rams",
+  "superbowl": "TBD",
+  "superbowlTiebreaker": 0,
+  "points": 0,
+  "id": 9999
+}

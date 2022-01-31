@@ -1,0 +1,11 @@
+afcWildCard3
+nfcWildCard1
+nfcWildCard2
+nfcWildCard3
+afcDivisional1
+afcDivisional2
+nfcDivisional1
+nfcDivisional2
+afcChampions
+nfcChampions
+superbowl
